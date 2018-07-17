@@ -107,7 +107,7 @@ public void dothis()
                                 icon = new ImageIcon(img2); 
                                 jLabel1.setIcon(icon);
                                
-
+//hjghhfhfg
 		
 				//System.out.println(String.format("%s (FACES)detected.", faces.toArray().length));
       }while(true);
